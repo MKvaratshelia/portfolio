@@ -1,0 +1,42 @@
+.footer {
+  height: 80px;
+  width: calc(1240 / 1440 * 100%);
+  margin: 40px auto 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+
+  &__author {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #b6bcbf;
+  }
+
+  &__link-container {
+    display: flex;
+  }
+
+  &__link {
+    cursor: pointer;
+    width: 22px;
+    height: 22px;
+    margin-right: 10px;
+  }
+  &__link:hover {
+    opacity: 0.8;
+    transform: scale(1.2);
+  }
+
+  &__tel {
+    width: 22px;
+    height: 22px;
+  }
+
+  &__mail {
+    width: 22px;
+    height: 22px;
+  }
+}
