@@ -12,7 +12,7 @@ function App() {
       <BrowserRouter>
         <NavBar />
         <Switch>
-          <Route path="/" exact component={Home} />
+          <Route path="/portfolio" exact component={Home} />
           <Route path="/about" component={About} />
         </Switch>
         <Footer />
