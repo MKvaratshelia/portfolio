@@ -1,31 +1,32 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.612524d9.chunk.css",
-    "main.js": "/portfolio/static/js/main.caf38b0b.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.caf38b0b.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.ea37e834.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ea37e834.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.075c0788.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.075c0788.js.map",
-    "static/js/2.3baec81c.chunk.js": "/portfolio/static/js/2.3baec81c.chunk.js",
-    "static/js/2.3baec81c.chunk.js.map": "/portfolio/static/js/2.3baec81c.chunk.js.map",
+    "static/js/2.2ed8b28a.chunk.js": "/portfolio/static/js/2.2ed8b28a.chunk.js",
+    "static/js/2.2ed8b28a.chunk.js.map": "/portfolio/static/js/2.2ed8b28a.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.eadd23780596e0a691a02ec207ac3dda.js": "/portfolio/precache-manifest.eadd23780596e0a691a02ec207ac3dda.js",
+    "precache-manifest.84d89884ec1064cd287332dc5f8e4370.js": "/portfolio/precache-manifest.84d89884ec1064cd287332dc5f8e4370.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.612524d9.chunk.css.map": "/portfolio/static/css/main.612524d9.chunk.css.map",
-    "static/js/2.3baec81c.chunk.js.LICENSE.txt": "/portfolio/static/js/2.3baec81c.chunk.js.LICENSE.txt",
+    "static/js/2.2ed8b28a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.2ed8b28a.chunk.js.LICENSE.txt",
     "static/media/About.scss": "/portfolio/static/media/IMG_avatar.ab2e2034.jpg",
     "static/media/diplom.jpg": "/portfolio/static/media/diplom.20119b80.jpg",
     "static/media/github-logo.svg": "/portfolio/static/media/github-logo.aaaf531a.svg",
     "static/media/learn.jpg": "/portfolio/static/media/learn.ecb9d5f0.jpg",
     "static/media/mail.svg": "/portfolio/static/media/mail.e3c80e2b.svg",
     "static/media/mesto.jpg": "/portfolio/static/media/mesto.2dd5af86.jpg",
+    "static/media/portfolio.jpg": "/portfolio/static/media/portfolio.cab511ee.jpg",
     "static/media/index.scss": "/portfolio/static/media/roboto-regular.58bf8e0b.woff",
     "static/media/russia.jpg": "/portfolio/static/media/russia.0ad272c4.jpg",
     "static/media/tel.svg": "/portfolio/static/media/tel.578398ce.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.075c0788.js",
-    "static/js/2.3baec81c.chunk.js",
+    "static/js/2.2ed8b28a.chunk.js",
     "static/css/main.612524d9.chunk.css",
-    "static/js/main.caf38b0b.chunk.js"
+    "static/js/main.ea37e834.chunk.js"
   ]
 }
