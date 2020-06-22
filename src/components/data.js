@@ -2,6 +2,7 @@ import diplom from "../images/tinified/diplom.jpg";
 import mesto from "../images/mesto.jpg";
 import russia from "../images/tinified/russia.jpg";
 import learn from "../images/tinified/learn.jpg";
+import portfolio from "../images/tinified/portfolio.jpg";
 
 const DATA = [
   {
@@ -34,6 +35,13 @@ const DATA = [
     githubUrl: "https://github.com/MKvaratshelia/learn",
     url: "https://mkvaratshelia.github.io/learn/",
     imgUrl: learn,
+  },
+  {
+    title: "Портфолио с учебными проектами с Яндекс.Практикум",
+    description: "Create react app, SCSS, БЭМ",
+    githubUrl: "https://github.com/MKvaratshelia/portfolio",
+    url: "https://mkvaratshelia.github.io/portfolio/",
+    imgUrl: portfolio,
   },
 ];
 
