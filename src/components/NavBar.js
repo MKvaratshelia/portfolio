@@ -8,12 +8,12 @@ export const NavBar = () => {
         <p className="header__logo">Портфолио</p>
         <ul className="header__nav-list">
           <li className="header__list-item">
-            <NavLink exact to="portfolio" className="header__nav-link">
+            <NavLink exact to="/portfolio" className="header__nav-link">
               Главная
             </NavLink>
           </li>
           <li className="header__list-item">
-            <NavLink to="about" className="header__nav-link">
+            <NavLink to="/about" className="header__nav-link">
               Обо мне
             </NavLink>
           </li>
