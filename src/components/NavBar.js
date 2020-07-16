@@ -13,7 +13,7 @@ export const NavBar = () => {
             </NavLink>
           </li>
           <li className="header__list-item">
-            <NavLink to="portfolio/about" className="header__nav-link">
+            <NavLink to="about" className="header__nav-link">
               Обо мне
             </NavLink>
           </li>
