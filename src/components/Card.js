@@ -4,17 +4,6 @@ import github from "../images/github-logo.svg";
 // import image from "../images/image_08.png";
 
 export const Card = ({ item, index }) => {
-  // const [percent, setPercent] = useState(0);
-
-  // const scrollDown = () => {
-  //   const scrollImageDown = setInterval(() => {
-  //     if (percent > 99) {
-  //       clearInterval(scrollImageDown);
-  //     }
-  //     setPercent(percent + 1);
-  //   }, 50);
-  // };
-
   return (
     <div className="card" key={index}>
       <div className="card__image-block">
