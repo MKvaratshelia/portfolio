@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e3e6b583671a2d7ea2f0ef10e78acf9",
+    "revision": "7c96e905d5868be4988f96e5a5eb7bef",
     "url": "/index.html"
   },
   {
-    "revision": "ddad959ee4b4b25e8f05",
+    "revision": "4e64a30ba2b567b233fe",
     "url": "/static/css/main.c447a8d7.chunk.css"
   },
   {
-    "revision": "952024f79df744dcf0d6",
-    "url": "/static/js/2.7bc1f79e.chunk.js"
+    "revision": "1b9f5936b4231c22d9d1",
+    "url": "/static/js/2.fa6deb13.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.7bc1f79e.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.fa6deb13.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ddad959ee4b4b25e8f05",
-    "url": "/static/js/main.aa27fbf1.chunk.js"
+    "revision": "4e64a30ba2b567b233fe",
+    "url": "/static/js/main.b635251e.chunk.js"
   },
   {
     "revision": "5284eec07972ace79c95",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ab2e20344fd28bddaed45491f084465e",
     "url": "/static/media/IMG_avatar.ab2e2034.jpg"
+  },
+  {
+    "revision": "768d2c881863133ec16b190cf8688c34",
+    "url": "/static/media/apple.768d2c88.png"
   },
   {
     "revision": "20119b8063c15423b7fe6a85bf534118",
@@ -58,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cab511ee5ca27e90bd1123c4fdb2ffe0",
     "url": "/static/media/portfolio.cab511ee.jpg"
+  },
+  {
+    "revision": "7c549b06cba909cde95f8f5b621cb9dd",
+    "url": "/static/media/quiz.7c549b06.png"
   },
   {
     "revision": "6422eac71f54ee5cd007dcf46fc0d22d",
