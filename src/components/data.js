@@ -9,8 +9,17 @@ import quiz from "../images/quiz.png";
 import apple from "../images/apple.png";
 import mestoReact from "../images/mestoReact.png";
 import weather from "../images/IBS-test.png";
+import todoApp from "../images/todo-app.png";
 
 const DATA = [
+  {
+    title: "Todo app",
+    description:
+      "'Todo app' учебное приложение на React. Create react app, классовые компоненты",
+    githubUrl: "https://github.com/MKvaratshelia/todo-app-react",
+    url: "https://mkvaratshelia.github.io/todo-app-react/",
+    imgUrl: todoApp,
+  },
   {
     title: "Weather app",
     description:
