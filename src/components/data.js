@@ -3,8 +3,38 @@ import mesto from "../images/mesto.jpg";
 import russia from "../images/tinified/russia.jpg";
 import learn from "../images/tinified/learn.jpg";
 import portfolio from "../images/tinified/portfolio.jpg";
+import iBuy from "../images/i-BUY.png";
+import githubSearch from "../images/githubSearch.png";
+import quiz from "../images/quiz.png";
+import apple from "../images/apple.png";
+import mestoReact from "../images/mestoReact.png";
+import weather from "../images/IBS-test.png";
 
 const DATA = [
+  {
+    title: "Weather app",
+    description:
+      "'Weather app' приложение погоды. Create-react-app, react hooks, функциональные компоненты",
+    githubUrl: "https://github.com/MKvaratshelia/IBS-test",
+    url: "https://mkvaratshelia.github.io/IBS-test/",
+    imgUrl: weather,
+  },
+  {
+    title: "Mesto-React",
+    description:
+      "Проект 'Mesto'. Проект полностью переписан на React. Create-react-app, react hooks, функциональные компоненты",
+    githubUrl: "https://github.com/MKvaratshelia/mesto-react",
+    url: "https://mkvaratshelia.github.io/mesto-react/",
+    imgUrl: mestoReact,
+  },
+  {
+    title: "React-quiz",
+    description:
+      "Проект 'React-quiz'. Проект переписан и проанализирован из учебного курса по React. Create-react-app, firebase,",
+    githubUrl: "https://github.com/MKvaratshelia/react-quiz",
+    url: "https://quiz-react-ee865.firebaseapp.com/",
+    imgUrl: quiz,
+  },
   {
     title: "Дипломный проект",
     description:
@@ -42,6 +72,29 @@ const DATA = [
     githubUrl: "https://github.com/MKvaratshelia/portfolio",
     url: "https://mkvaratshelia.github.io/portfolio/",
     imgUrl: portfolio,
+  },
+  {
+    title: "Тестовое задание",
+    description: "Адаптивная вёрстка, автоподгрузка картинок, HTML, CSS, JS",
+    gitHubUrl: "https://github.com/MKvaratshelia/iBUY-test",
+    url: "https://mkvaratshelia.github.io/iBUY-test/",
+    imgUrl: iBuy,
+  },
+  {
+    title: "Учебный проект 'GitHub search",
+    description:
+      "Проект переписан и проанализирован из учебного материала по react hooks. Create react app, bootstrap, react hooks",
+    githubUrl: "https://github.com/MKvaratshelia/GitHub-search",
+    url: "https://mkvaratshelia.github.io/GitHub-search/",
+    imgUrl: githubSearch,
+  },
+  {
+    title: "Тестовое задание",
+    description:
+      "Тестовое задание для компании Wispo. Сверстать прототип карточки товара и сделать сортировку по цене в обе стороны",
+    githubUrl: "https://github.com/MKvaratshelia/Wispo-test",
+    url: "https://mkvaratshelia.github.io/Wispo-test/",
+    imgUrl: apple,
   },
 ];
 
