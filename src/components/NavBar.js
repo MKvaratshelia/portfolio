@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 import "../styles/NavBar.scss";
 export const NavBar = () => {
   return (
-    <div className="header">
+    <header className="header">
       <nav className="header__nav">
         <p className="header__logo">Портфолио</p>
         <ul className="header__nav-list">
@@ -19,6 +19,6 @@ export const NavBar = () => {
           </li>
         </ul>
       </nav>
-    </div>
+    </header>
   );
 };
