@@ -19,6 +19,7 @@ const DATA = [
     githubUrl: "https://github.com/MKvaratshelia/todo-app-react",
     url: "https://mkvaratshelia.github.io/todo-app-react/",
     imgUrl: todoApp,
+    id: 1,
   },
   {
     title: "Weather app",
@@ -27,6 +28,7 @@ const DATA = [
     githubUrl: "https://github.com/MKvaratshelia/IBS-test",
     url: "https://mkvaratshelia.github.io/IBS-test/",
     imgUrl: weather,
+    id: 2,
   },
   {
     title: "Mesto-React",
@@ -35,6 +37,7 @@ const DATA = [
     githubUrl: "https://github.com/MKvaratshelia/mesto-react",
     url: "https://mkvaratshelia.github.io/mesto-react/",
     imgUrl: mestoReact,
+    id: 3,
   },
   {
     title: "React-quiz",
@@ -43,6 +46,7 @@ const DATA = [
     githubUrl: "https://github.com/MKvaratshelia/react-quiz",
     url: "https://quiz-react-ee865.firebaseapp.com/",
     imgUrl: quiz,
+    id: 4,
   },
   {
     title: "Дипломный проект",
@@ -51,6 +55,7 @@ const DATA = [
     githubUrl: "https://github.com/MKvaratshelia/diploma",
     url: "https://mkvaratshelia.github.io/diploma/",
     imgUrl: diplom,
+    id: 5,
   },
   {
     title: "Сервис 'Mesto'",
@@ -59,6 +64,7 @@ const DATA = [
     githubUrl: "https://github.com/MKvaratshelia/praktikum_mesto",
     url: "https://mkvaratshelia.github.io/praktikum_mesto/",
     imgUrl: mesto,
+    id: 6,
   },
   {
     title: "Лендинг 'Путешествия по России'",
@@ -67,6 +73,7 @@ const DATA = [
     githubUrl: "https://github.com/MKvaratshelia/russia",
     url: "https://mkvaratshelia.github.io/russia/",
     imgUrl: russia,
+    id: 7,
   },
   {
     title: "Лендинг 'Научиться учиться'",
@@ -74,6 +81,7 @@ const DATA = [
     githubUrl: "https://github.com/MKvaratshelia/learn",
     url: "https://mkvaratshelia.github.io/learn/",
     imgUrl: learn,
+    id: 8,
   },
   {
     title: "Портфолио с учебными проектами с Яндекс.Практикум",
@@ -81,6 +89,7 @@ const DATA = [
     githubUrl: "https://github.com/MKvaratshelia/portfolio",
     url: "https://mkvaratshelia.github.io/portfolio/",
     imgUrl: portfolio,
+    id: 9,
   },
   {
     title: "Тестовое задание",
@@ -88,6 +97,7 @@ const DATA = [
     gitHubUrl: "https://github.com/MKvaratshelia/iBUY-test",
     url: "https://mkvaratshelia.github.io/iBUY-test/",
     imgUrl: iBuy,
+    id: 10,
   },
   {
     title: "Учебный проект 'GitHub search",
@@ -96,6 +106,7 @@ const DATA = [
     githubUrl: "https://github.com/MKvaratshelia/GitHub-search",
     url: "https://mkvaratshelia.github.io/GitHub-search/",
     imgUrl: githubSearch,
+    id: 11,
   },
   {
     title: "Тестовое задание",
@@ -104,6 +115,7 @@ const DATA = [
     githubUrl: "https://github.com/MKvaratshelia/Wispo-test",
     url: "https://mkvaratshelia.github.io/Wispo-test/",
     imgUrl: apple,
+    id: 12,
   },
 ];
 
