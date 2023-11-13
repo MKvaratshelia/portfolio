@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b92efb3bc9e9a66cd7f25faa2e559670",
+    "revision": "645a9ffddb8019167f1f5459540f1585",
     "url": "/index.html"
   },
   {
-    "revision": "1215ade81dee36ba132d",
+    "revision": "6efda2d787b6f794fa6b",
     "url": "/static/css/main.2eceb3c3.chunk.css"
   },
   {
-    "revision": "757310e70ab09708e6dd",
-    "url": "/static/js/2.7756c8fe.chunk.js"
+    "revision": "9f43d273ebca252a6e70",
+    "url": "/static/js/2.1d2c2329.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.7756c8fe.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.1d2c2329.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1215ade81dee36ba132d",
-    "url": "/static/js/main.6df1dd3c.chunk.js"
+    "revision": "6efda2d787b6f794fa6b",
+    "url": "/static/js/main.2d68c809.chunk.js"
   },
   {
     "revision": "b4ba650b238755144e2a",
@@ -72,8 +72,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/mestoReact.c1896e79.png"
   },
   {
+    "revision": "50bf85c4369d52f89f8de6564a2766f6",
+    "url": "/static/media/middle-course.50bf85c4.png"
+  },
+  {
     "revision": "cab511ee5ca27e90bd1123c4fdb2ffe0",
     "url": "/static/media/portfolio.cab511ee.jpg"
+  },
+  {
+    "revision": "3412d1659aa9dc4f332d30ea0a0fc4fa",
+    "url": "/static/media/psyon.3412d165.png"
   },
   {
     "revision": "7c549b06cba909cde95f8f5b621cb9dd",

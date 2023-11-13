@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2eceb3c3.chunk.css",
-    "main.js": "/static/js/main.6df1dd3c.chunk.js",
-    "main.js.map": "/static/js/main.6df1dd3c.chunk.js.map",
+    "main.js": "/static/js/main.2d68c809.chunk.js",
+    "main.js.map": "/static/js/main.2d68c809.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e5fc83a6.js",
     "runtime-main.js.map": "/static/js/runtime-main.e5fc83a6.js.map",
-    "static/js/2.7756c8fe.chunk.js": "/static/js/2.7756c8fe.chunk.js",
-    "static/js/2.7756c8fe.chunk.js.map": "/static/js/2.7756c8fe.chunk.js.map",
+    "static/js/2.1d2c2329.chunk.js": "/static/js/2.1d2c2329.chunk.js",
+    "static/js/2.1d2c2329.chunk.js.map": "/static/js/2.1d2c2329.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.082ae0699a7bd697e68585439d35a1f3.js": "/precache-manifest.082ae0699a7bd697e68585439d35a1f3.js",
+    "precache-manifest.d77e09e91d7728b96c134581fa811c6e.js": "/precache-manifest.d77e09e91d7728b96c134581fa811c6e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2eceb3c3.chunk.css.map": "/static/css/main.2eceb3c3.chunk.css.map",
-    "static/js/2.7756c8fe.chunk.js.LICENSE.txt": "/static/js/2.7756c8fe.chunk.js.LICENSE.txt",
+    "static/js/2.1d2c2329.chunk.js.LICENSE.txt": "/static/js/2.1d2c2329.chunk.js.LICENSE.txt",
     "static/media/IBS-test.png": "/static/media/IBS-test.d1cbc141.png",
     "static/media/About.scss": "/static/media/IMG_avatar.ab2e2034.jpg",
     "static/media/apple.png": "/static/media/apple.768d2c88.png",
@@ -24,7 +24,9 @@
     "static/media/memory-game.png": "/static/media/memory-game.cf4794ba.png",
     "static/media/mesto.jpg": "/static/media/mesto.2dd5af86.jpg",
     "static/media/mestoReact.png": "/static/media/mestoReact.c1896e79.png",
+    "static/media/middle-course.png": "/static/media/middle-course.50bf85c4.png",
     "static/media/portfolio.jpg": "/static/media/portfolio.cab511ee.jpg",
+    "static/media/psyon.png": "/static/media/psyon.3412d165.png",
     "static/media/quiz.png": "/static/media/quiz.7c549b06.png",
     "static/media/index.scss": "/static/media/roboto-regular.58bf8e0b.woff",
     "static/media/russia.jpg": "/static/media/russia.0ad272c4.jpg",
@@ -33,8 +35,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e5fc83a6.js",
-    "static/js/2.7756c8fe.chunk.js",
+    "static/js/2.1d2c2329.chunk.js",
     "static/css/main.2eceb3c3.chunk.css",
-    "static/js/main.6df1dd3c.chunk.js"
+    "static/js/main.2d68c809.chunk.js"
   ]
 }
